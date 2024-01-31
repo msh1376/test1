@@ -1,0 +1,15 @@
+{
+  "name": "trust_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trustwallet/wallet-core": "^4.0.21",
+    "bip39": "^3.1.0"
+  }
+}
